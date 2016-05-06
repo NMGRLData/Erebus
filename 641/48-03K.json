@@ -1,0 +1,73 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "B:2 40 mg", 
+    "commit": "dbef31408009f73df307845cbb17a9bfac48a6ff", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "64148", 
+    "increment": 10, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "", 
+    "irradiation_level": "", 
+    "irradiation_position": 0, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Erebus", 
+    "sample": "E11-01-53", 
+    "spec_sha": "7a53a104ce01382abf01c738e0410fda37641fac", 
+    "timestamp": "2016-05-06T12:18:59.705402", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "61c1b47f-520d-4435-8b2c-60e446d56f1f"
+}
