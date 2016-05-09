@@ -35,9 +35,9 @@
     "identifier": "64142", 
     "increment": 7, 
     "intensity_scalar": 0.0, 
-    "irradiation": "", 
-    "irradiation_level": "", 
-    "irradiation_position": 0, 
+    "irradiation": "NM-282", 
+    "irradiation_level": "A", 
+    "irradiation_position": 2, 
     "isotopes": {
         "Ar36": {
             "detector": "CDD"
@@ -59,9 +59,9 @@
         }
     }, 
     "mass_spectrometer": "Jan", 
-    "material": "", 
+    "material": "Anorthoclase", 
     "measurement": "jan_unknown400_120.py", 
-    "project": "", 
+    "project": "Erebus", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Erebus", 
     "sample": "E14-36-37", 
