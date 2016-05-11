@@ -1,0 +1,26 @@
+{
+    "beam_diameter": "2.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "dbef31408009f73df307845cbb17a9bfac48a6ff", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 60.0, 
+    "extract_units": "watts", 
+    "extract_value": 25.0, 
+    "pattern": "10 hole 8 sides beam 2.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "10", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "UGeuTgAAAAAAFBU9AAD6RHy3AkAAAPpEkHyBQAAA+kRTlcFAAAD6RIvfAEEAAPpEIvogQQAA+kSgDkFBAAD6RLggYUEAAPpEiqaAQQAA+kT5sZBBAAD6RN+1oEEAAPpE5LiwQQAA+kREvsBBAAD6RNDM0EEAAPpE4c3gQQAA+kTs1fBBAAD6RBBwAEIAAPpEZXQIQgAA+kRddxBCAAD6RJp7GEIAAPpEkH4gQgAA+kQIiihCAAD6RESYMEIAAPpE7p84QgAA+kQnpUBCAAD6REyrSEIAAPpEW61QQgAA+kRvrFhCAAD6RIivYEIAAPpE1bVoQgAA+kQBuHBCAAD6ROu4eEIAAPpE", 
+    "response": "UGeuTgAAAAAAFBU9qcYcQny3AkAAAAAAkHyBQAAAAABTlcFA6bYxQovfAEHptjFCIvogQem2MUKgDkFB6bYxQrggYUHptjFCiqaAQem2MUL5sZBB6bYxQt+1oEHptjFC5LiwQem2MUJEvsBB6bYxQtDM0EHptjFC4c3gQem2MULs1fBB6bYxQhBwAELptjFCZXQIQum2MUJddxBC6bYxQpp7GELptjFCkH4gQum2MUIIiihC6bYxQkSYMELptjFC7p84Qum2MUInpUBC6bYxQkyrSELptjFCW61QQum2MUJvrFhC6bYxQoivYELptjFC1bVoQum2MUIBuHBC6bYxQuu4eELptjFC", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 0.0
+}
