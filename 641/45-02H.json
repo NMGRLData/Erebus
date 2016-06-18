@@ -1,0 +1,66 @@
+{
+    "aliquot": 2, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "A:5 Anorthoclase, 23.63 mg", 
+    "commit": "08483a78d1c471e0343e3acd18560d31807678aa", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "64145", 
+    "increment": 7, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-282", 
+    "irradiation_level": "A", 
+    "irradiation_position": 5, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Anorthoclase", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "Erebus", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Erebus", 
+    "sample": "E94-01-37", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-06-18T12:36:16.560796", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "446d0b6e-13f9-4651-adf8-9d92135059ae"
+}
