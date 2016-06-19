@@ -1,0 +1,40 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 60.0, 
+    "commit": "08483a78d1c471e0343e3acd18560d31807678aa", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 20.0, 
+    "extract_units": "watts", 
+    "extract_value": 8.0, 
+    "pattern": "triangle_37hole_20secperhole.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "30", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "31", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "32", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "zq5OAAAAAACWKT0AAPpEoRADQAAA+kSOwYFAAAD6RPT6wUAAAPpEWA0BQQAA+kQ0IiFBAAD6RDEeQUEAAPpEQh9hQQAA+kQ5kYBBAAD6RJ+XkEEAAPpEC5+gQQAA+kQ5n7BBAAD6REegwEEAAPpEVKzQQQAA+kSEquBBAAD6RK668EEAAPpE5V0AQgAA+kRLYQhCAAD6RPJmEEIAAPpEqG0YQgAA+kQRcyBCAAD6RAd2KEIAAPpEIX0wQgAA+kT1fjhCAAD6RNKAQEIAAPpEb4RIQgAA+kTvh1BCAAD6RKWNWEIAAPpEe5BgQgAA+kRRlGhCAAD6RIqXcEIAAPpEgpt4QgAA+kTNTYBCAAD6RM9QhEIAAPpEWFCIQgAA+kS1UYxCAAD6RCpSkEIAAPpES1OUQgAA+kTMUphCAAD6RE9SnEIAAPpEJ1WgQgAA+kTAWKRCAAD6RFxcqEIAAPpE", 
+    "response": "zq5OAAAAAACWKT35ScJBoRADQAAAAACOwYFAAAAAAPT6wUAAAAAAWA0BQWE51EE0IiFBYTnUQTEeQUFhOdRBQh9hQWE51EE5kYBBYTnUQZ+XkEFhOdRBC5+gQWE51EE5n7BBYTnUQUegwEFhOdRBVKzQQWE51EGEquBBYTnUQa668EFhOdRB5V0AQmE51EFLYQhCYTnUQfJmEEJhOdRBqG0YQmE51EERcyBCYTnUQQd2KEJhOdRBIX0wQmE51EH1fjhCYTnUQdKAQEJhOdRBb4RIQmE51EHvh1BCYTnUQaWNWEJhOdRBe5BgQmE51EFRlGhCYTnUQYqXcEJhOdRBgpt4QmE51EHNTYBCYTnUQc9QhEJhOdRBWFCIQmE51EG1UYxCYTnUQSpSkEJhOdRBS1OUQmE51EHMUphCYTnUQU9SnEJhOdRBJ1WgQmE51EHAWKRCYTnUQVxcqEJhOdRB", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 53.45
+}
