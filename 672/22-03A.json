@@ -98,46 +98,46 @@
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-18T14:28:14",
+                "pub_date": "2019-12-17T18:00:55",
                 "title": "Building",
-                "value": 101.0
+                "value": 100.6
             },
             {
                 "device": "AirPressure2",
                 "name": "Pressure2",
-                "pub_date": "2019-12-18T11:58:03",
+                "pub_date": "2019-12-17T17:10:57",
                 "title": "Lab",
-                "value": 87.6
+                "value": 87.1
             }
         ],
         "lab_temperatures": [
             {
                 "device": "Coldfinger",
                 "name": "ColdFinger Temp.",
-                "pub_date": "2019-12-18T01:08:24",
+                "pub_date": "2019-12-17T17:09:32",
                 "title": "Cold Finger",
-                "value": -197.0
+                "value": -199.0
             },
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-18T14:26:00",
+                "pub_date": "2019-12-17T19:31:43",
                 "title": "iServer Temp.",
-                "value": 73.7
+                "value": 72.3
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-18T14:33:12",
+                "pub_date": "2019-12-17T19:31:03",
                 "title": "Coolant",
                 "value": 16.0
             },
             {
                 "device": "JanMonitor",
                 "name": "JanDecabinTemp",
-                "pub_date": "2019-12-18T13:52:24",
+                "pub_date": "2019-12-17T12:59:44",
                 "title": null,
-                "value": 35.7167277167277
+                "value": 35.7264957264957
             }
         ]
     },
@@ -204,14 +204,14 @@
     "rlocation": null,
     "sample": "E18-14 25-53um",
     "source": {
-        "emission": 528.206,
-        "trap": 198.371
+        "emission": 527.841,
+        "trap": 198.483
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-18T14:40:33.870253",
+    "timestamp": "2019-12-17T19:31:55.143086",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "3fbe2520-8606-4d78-adaa-53471f758830",
+    "uuid": "d780f67b-e450-4258-8795-fd9653765a0c",
     "whiff_result": null
 }

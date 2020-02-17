@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 19.6",
-    "aliquot": 5,
+    "aliquot": 3,
     "analysis_type": "unknown",
     "analyst_name": "",
     "arar_mapping": {
@@ -98,46 +98,46 @@
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-17T18:00:55",
+                "pub_date": "2019-12-18T15:23:19",
                 "title": "Building",
-                "value": 100.6
+                "value": 101.0
             },
             {
                 "device": "AirPressure2",
                 "name": "Pressure2",
-                "pub_date": "2019-12-17T17:10:57",
+                "pub_date": "2019-12-18T11:58:03",
                 "title": "Lab",
-                "value": 87.1
+                "value": 87.6
             }
         ],
         "lab_temperatures": [
             {
                 "device": "Coldfinger",
                 "name": "ColdFinger Temp.",
-                "pub_date": "2019-12-17T17:09:32",
+                "pub_date": "2019-12-18T01:08:24",
                 "title": "Cold Finger",
-                "value": -199.0
+                "value": -197.0
             },
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-17T19:31:43",
+                "pub_date": "2019-12-18T15:06:16",
                 "title": "iServer Temp.",
-                "value": 72.3
+                "value": 74.1
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-17T19:41:03",
+                "pub_date": "2019-12-18T15:28:17",
                 "title": "Coolant",
-                "value": 16.0
+                "value": 15.9
             },
             {
                 "device": "JanMonitor",
                 "name": "JanDecabinTemp",
-                "pub_date": "2019-12-17T12:59:44",
+                "pub_date": "2019-12-18T13:52:24",
                 "title": null,
-                "value": 35.7264957264957
+                "value": 35.7167277167277
             }
         ]
     },
@@ -147,7 +147,7 @@
     "grainsize": "",
     "hops": "",
     "identifier": "67222",
-    "increment": 1,
+    "increment": 8,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-308",
@@ -204,14 +204,14 @@
     "rlocation": null,
     "sample": "E18-14 25-53um",
     "source": {
-        "emission": 528.571,
-        "trap": 198.371
+        "emission": 528.085,
+        "trap": 198.259
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-17T19:42:01.817034",
+    "timestamp": "2019-12-18T15:32:28.917562",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "54d53dc0-64fd-465d-ba86-fb529c82d5d7",
+    "uuid": "db04c9cb-bdb9-4271-8fa8-0e7ba6ed42fd",
     "whiff_result": null
 }

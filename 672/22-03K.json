@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 19.6",
-    "aliquot": 5,
+    "aliquot": 3,
     "analysis_type": "unknown",
     "analyst_name": "",
     "arar_mapping": {
@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "E18-14 30.25 mg 25-53 microns",
-    "commit": "4c54ca7ebc31f8047ef7cd7f26f2967528adb2cd",
+    "commit": "9af15919586f18919dd0bc9a0616eb11087b7dd2",
     "conditionals": [
         {
             "analysis_types": [],
@@ -85,59 +85,51 @@
         }
     },
     "environmental": {
-        "lab_humiditys": [
-            {
-                "device": "EnvironmentalMonitor",
-                "name": "Lab Hum.",
-                "pub_date": "2019-12-17T15:52:36",
-                "title": "iServer Hum.",
-                "value": 12.3
-            }
-        ],
+        "lab_humiditys": [],
         "lab_pneumatics": [
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-17T18:00:55",
+                "pub_date": "2019-12-18T15:23:19",
                 "title": "Building",
-                "value": 100.6
+                "value": 101.0
             },
             {
                 "device": "AirPressure2",
                 "name": "Pressure2",
-                "pub_date": "2019-12-17T17:10:57",
+                "pub_date": "2019-12-18T11:58:03",
                 "title": "Lab",
-                "value": 87.1
+                "value": 87.6
             }
         ],
         "lab_temperatures": [
             {
                 "device": "Coldfinger",
                 "name": "ColdFinger Temp.",
-                "pub_date": "2019-12-17T17:09:32",
+                "pub_date": "2019-12-18T01:08:24",
                 "title": "Cold Finger",
-                "value": -199.0
+                "value": -197.0
             },
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-17T19:31:43",
+                "pub_date": "2019-12-18T15:40:27",
                 "title": "iServer Temp.",
-                "value": 72.3
+                "value": 74.4
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-17T19:31:03",
+                "pub_date": "2019-12-18T15:43:19",
                 "title": "Coolant",
                 "value": 16.0
             },
             {
                 "device": "JanMonitor",
                 "name": "JanDecabinTemp",
-                "pub_date": "2019-12-17T12:59:44",
+                "pub_date": "2019-12-18T13:52:24",
                 "title": null,
-                "value": 35.7264957264957
+                "value": 35.7167277167277
             }
         ]
     },
@@ -147,7 +139,7 @@
     "grainsize": "",
     "hops": "",
     "identifier": "67222",
-    "increment": 0,
+    "increment": 10,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-308",
@@ -204,14 +196,14 @@
     "rlocation": null,
     "sample": "E18-14 25-53um",
     "source": {
-        "emission": 527.841,
-        "trap": 198.483
+        "emission": 528.571,
+        "trap": 197.811
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-17T19:31:55.143086",
+    "timestamp": "2019-12-18T15:52:45.163986",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "d780f67b-e450-4258-8795-fd9653765a0c",
+    "uuid": "989b8f56-facd-4e99-8fbf-8dd10ead3ee6",
     "whiff_result": null
 }
