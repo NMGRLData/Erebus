@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "E18-14 30.25 mg 25-53 microns",
-    "commit": "9af15919586f18919dd0bc9a0616eb11087b7dd2",
+    "commit": "4c54ca7ebc31f8047ef7cd7f26f2967528adb2cd",
     "conditionals": [
         {
             "analysis_types": [],
@@ -98,7 +98,7 @@
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-18T15:23:19",
+                "pub_date": "2019-12-18T14:28:14",
                 "title": "Building",
                 "value": 101.0
             },
@@ -121,16 +121,16 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-18T15:40:27",
+                "pub_date": "2019-12-18T15:06:16",
                 "title": "iServer Temp.",
-                "value": 74.4
+                "value": 74.1
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-18T15:28:17",
+                "pub_date": "2019-12-18T15:08:15",
                 "title": "Coolant",
-                "value": 15.9
+                "value": 16.1
             },
             {
                 "device": "JanMonitor",
@@ -205,13 +205,13 @@
     "sample": "E18-14 25-53um",
     "source": {
         "emission": 528.693,
-        "trap": 197.588
+        "trap": 198.818
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-18T15:42:40.509448",
+    "timestamp": "2019-12-18T15:12:03.082725",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "9259a3db-0937-4687-9f8b-5c511cfbe1d2",
+    "uuid": "2a611306-2974-44d9-a5ed-803fb6db85b6",
     "whiff_result": null
 }

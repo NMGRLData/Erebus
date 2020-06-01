@@ -98,9 +98,9 @@
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-18T15:18:19",
+                "pub_date": "2019-12-18T14:28:14",
                 "title": "Building",
-                "value": 102.3
+                "value": 101.0
             },
             {
                 "device": "AirPressure2",
@@ -121,16 +121,16 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-18T15:06:16",
+                "pub_date": "2019-12-18T14:26:00",
                 "title": "iServer Temp.",
-                "value": 74.1
+                "value": 73.7
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-18T15:13:15",
+                "pub_date": "2019-12-18T14:48:13",
                 "title": "Coolant",
-                "value": 16.0
+                "value": 15.9
             },
             {
                 "device": "JanMonitor",
@@ -204,14 +204,14 @@
     "rlocation": null,
     "sample": "E18-14 25-53um",
     "source": {
-        "emission": 528.571,
-        "trap": 198.035
+        "emission": 527.963,
+        "trap": 198.259
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-18T15:22:19.605410",
+    "timestamp": "2019-12-18T14:51:02.708689",
     "tripped_conditional": null,
     "unit": null,
     "username": "",
-    "uuid": "b31b70c9-a759-4ee4-ab87-20ccb37e0ad7",
+    "uuid": "3c9761d1-edfb-496f-8572-e0a4ef66a9b7",
     "whiff_result": null
 }
