@@ -6,10 +6,22 @@
         "value": 1.0
     },
     "H1": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 6.355100985500074e-05,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-562",
+                "uuid": "a083bb29-facc-4205-b3c8-cbaa17d31cc5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-563",
+                "uuid": "37a54bf9-5745-4edb-b79b-609a2085f425"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0082162712896885
     },
     "H2": {
         "error": 1e-20,
