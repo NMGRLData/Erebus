@@ -1,9 +1,36 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.00011617699747150983,
+        "fit": "Bracketing Interpolate",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-1225",
+                "uuid": "e90bebe3-dc73-437c-b0c8-26d92762b84c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-1226",
+                "uuid": "89cb4760-1b4f-4cfb-a944-91c1dc402b67"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-1227",
+                "uuid": "7ec2b0c8-d9b6-49b4-8d4a-b63eaec6b082"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-1228",
+                "uuid": "564fdd74-a302-4910-bddb-5ede59fe5e99"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-1229",
+                "uuid": "4abe4f41-717c-410a-be6c-ced49b1557ed"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0022444148470342
     },
     "CDD": {
         "error": 0.0005004784515297151,
