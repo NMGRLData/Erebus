@@ -6,10 +6,62 @@
         "value": 1.0
     },
     "H1": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0003040233897391873,
+        "fit": "Bracketing Interpolate",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-599",
+                "uuid": "2aaa0565-24be-4395-9307-0384fe778484"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-600",
+                "uuid": "b399d4a1-562a-4317-af53-269cf2aad7d9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-601",
+                "uuid": "01db55aa-81ef-448a-87f2-5a72e94a08cd"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-602",
+                "uuid": "6260f116-1f0e-4fe1-abd6-849bf32dc815"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-603",
+                "uuid": "abec405a-da8e-41ea-8b11-85714e067773"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "c-03-F-604",
+                "uuid": "e8315d38-b510-4a5d-be67-cb118c62ce82"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-605",
+                "uuid": "b99c729f-9e67-4dbf-b2d4-ab70ea22102f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-606",
+                "uuid": "09f125f0-de88-467a-84b3-98c66f0389d9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-607",
+                "uuid": "027b81b9-734a-4ef9-94e6-76bc595e61cf"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-F-608",
+                "uuid": "9b249286-be27-4e6a-93fa-b9a9163fb4b4"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.00208416179025
     },
     "H2": {
         "error": 1e-20,
