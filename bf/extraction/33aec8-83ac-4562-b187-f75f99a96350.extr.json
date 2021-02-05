@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 120.0,
+    "commit": "36bae88f65daa7c87452916a34774ccce9fe596d",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 80.0,
+    "extract_units": "watts",
+    "extract_value": 10.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "37-hole",
+    "load_name": "D0071",
+    "measured_response": "bMznATgAAAACo1oM+AAD6RN9xEEAAAPpENUWIQAAA+kShgshAAAD6RChABEEAAPpEEUYkQQAA+kTUdURBAAD6RFSLZEEAAPpEklGCQQAA+kT2YZJBAAD6RFJrokEAAPpEc4myQQAA+kRmlMJBAAD6RJCf0kEAAPpEOqbiQQAA+kQ+sPJBAAD6RFNgAUIAAPpEkWkJQgAA+kRrcBFCAAD6RCZ3GUIAAPpE0HYhQgAA+kTVdilCAAD6RIt2MUIAAPpEkHY5QgAA+kTTfkFCAAD6RCB+SUIAAPpEAodRQgAA+kSzjFlCAAD6ROONYUIAAPpECY9pQgAA+kRRkHFCAAD6RMiTeUIAAPpEMsyAQgAA+kSBz4RCAAD6RMHQiEIAAPpEudKMQgAA+kSn1ZBCAAD6RDTZlEIAAPpEeuGYQgAA+kTq5ZxCAAD6RAzmoEIAAPpEyuukQgAA+kSk7qhCAAD6RA=",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 27,
+            "x": 4.8006,
+            "y": -4.8006,
+            "z": 0.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "bMznATgAAAACo1oM+YTnUQd9xEEAAAAAANUWIQAAAAAChgshAAAAAAChABEGpsOVBEUYkQamw5UHUdURBqbDlQVSLZEGpsOVBklGCQamw5UH2YZJBqbDlQVJrokGpsOVBc4myQamw5UFmlMJBqbDlQZCf0kGpsOVBOqbiQamw5UE+sPJBqbDlQVNgAUKpsOVBkWkJQqmw5UFrcBFCqbDlQSZ3GUKpsOVB0HYhQqmw5UHVdilCqbDlQYt2MUKpsOVBkHY5Qqmw5UHTfkFCqbDlQSB+SUKpsOVBAodRQqmw5UGzjFlCqbDlQeONYUKpsOVBCY9pQqmw5UFRkHFCqbDlQciTeUKpsOVBMsyAQqmw5UGBz4RCqbDlQcHQiEKpsOVBudKMQqmw5UGn1ZBCqbDlQTTZlEKpsOVBeuGYQqmw5UHq5ZxCqbDlQQzmoEKpsOVByuukQqmw5UGk7qhCqbDlQQ=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 21.64
+}
