@@ -6,10 +6,63 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0008537201574161378,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-568",
+                "uuid": "5f07dbbb-e007-4e0b-a200-2387c18575bb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-569",
+                "uuid": "4b8f078a-090c-44fc-8720-4aa395725d15"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-570",
+                "uuid": "df123cb8-b095-4c15-b064-4a5956ee01f1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-571",
+                "uuid": "c01d0824-d48b-476e-867b-bbc48ad462e5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-572",
+                "uuid": "b24922a0-b1d3-4851-9cc4-48a7eaa84143"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-573",
+                "uuid": "bc4def23-05cd-4a68-bf16-a8bf63734804"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-574",
+                "uuid": "2abb2e62-e11c-48a4-bfe3-8fa3b3923766"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-575",
+                "uuid": "1bd9f931-d408-4b6c-892c-57cdefff89ac"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-03-J-576",
+                "uuid": "87f2479e-c169-434a-b0fe-f30e6f315240"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-03-J-577",
+                "uuid": "a0b0e122-e292-4f0d-89ad-3f6cbe9fbeb1"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 1.0047028720741444
     },
     "H1": {
         "error": 1e-20,
