@@ -91,7 +91,7 @@
         "value": 2.0469659180048714
     },
     "Ar40": {
-        "error": 0.044709561266130585,
+        "error": 0.025928829455730672,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -100,24 +100,21 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
-        "fn": 591,
+        "fit": "cubic",
+        "fn": 594,
         "include_baseline_error": true,
         "n": 600,
         "outlier_excluded": [
             0,
             1,
-            2,
             3,
             4,
-            5,
             6,
-            7,
-            8
+            7
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 29.540151668303515
+        "value": 28.297115562521324
     },
     "Ar41": {
         "error": 0.01210508412812945,
